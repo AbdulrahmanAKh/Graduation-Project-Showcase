@@ -65,10 +65,9 @@ flowchart TB
     STAGE --> ETL[Validation, reconciliation, and upserts]
     ETL --> DB[(Supabase / PostgreSQL)]
     DB --> RPC[SQL views and RPC functions]
-    AUTH[Supabase Auth] --> APP
-    RPC <--> APP[React 19 + TanStack Start application]
+    RPC <--> APP[Interactive Web Dashboard]
     APP --> UI[Role-specific dashboards and workflows]
-    APP <--> FILES[Supabase Storage: supporting documents]
+    APP <--> FILES[Cloud Storage: supporting documents]
 ```
 
 This diagram summarizes the main data and application layers. Individual source imports have different collection paths and prerequisites; a scheduled, unattended deployment is not implied.

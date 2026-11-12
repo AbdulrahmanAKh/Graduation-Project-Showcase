@@ -1,4 +1,4 @@
-# Islamic University CRIS
+# Islamic University - Customized Research Information System
 
 ### Comprehensive Research Information System
 

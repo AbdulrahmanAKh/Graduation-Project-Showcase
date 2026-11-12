@@ -2,11 +2,11 @@
 
 ### Comprehensive Research Information System
 
-![B.Sc. Graduation Project](https://img.shields.io/badge/B.Sc.-Graduation_Project-2563eb?style=flat-square)
-![React 19](https://img.shields.io/badge/React-19-149eca?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square)
-![Arabic and English](https://img.shields.io/badge/Language-Arabic_%7C_English-006c35?style=flat-square)
+[![Academic Project](https://img.shields.io/badge/Project-B.Sc.%20Graduation%20Capstone-blue?style=for-the-badge)](https://github.com/abdulrahmanakh/Graduation-Project-Showcase)
+[![Institution](https://img.shields.io/badge/Institution-Islamic%20University%20of%20Madinah-006C35?style=for-the-badge)](https://github.com/abdulrahmanakh/Graduation-Project-Showcase)
+[![Verified Papers](https://img.shields.io/badge/Indexed%20Corpus-7%2C352%20Papers-green?style=for-the-badge)](https://github.com/abdulrahmanakh/Graduation-Project-Showcase)
+[![Citations Tracked](https://img.shields.io/badge/Citations%20Tracked-71%2C567-orange?style=for-the-badge)](https://github.com/abdulrahmanakh/Graduation-Project-Showcase)
+[![Scholarly Integrations](https://img.shields.io/badge/Integrations-Elsevier%20Scopus%20%7C%20OpenAlex-red?style=for-the-badge)](https://github.com/abdulrahmanakh/Graduation-Project-Showcase)
 
 A research management and analytics platform developed as a Computer Science B.Sc. graduation project for the **Islamic University of Madinah**, with workflows for the Deanship of Scientific Research, academic leaders, researchers, and students.
 

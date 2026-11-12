@@ -21,9 +21,9 @@ Scroll to -> [Capabilities](#capabilities) · [Architecture](#architecture) · [
 
 Research information is distributed across bibliographic providers and institutional workflows. The same paper can have different identifiers, citation counts, author affiliations, and journal classifications in different sources. Academic leaders also need different views of this information depending on their college, department, or university responsibilities.
 
-This project extends an OpenAlex-based research catalog with Scopus ingestion, source reconciliation, journal intelligence, and role-specific workflows. It retains source distinctions so users can investigate coverage and citation differences rather than treating every provider as interchangeable.
+This project extends an OpenAlex-based research catalog with Scopus ingestion, source reconciliation, journal intelligence, and role-specific workflows via API to automate the process of collecting data. It retains source distinctions so users can investigate coverage and citation differences rather than treating every provider as interchangeable.
 
-## Capabilities
+## Implemented Components (as required by the deanship of post-graduate & scientific research)
 
 | Area                            | Implemented functionality                                                                                                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

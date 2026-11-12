@@ -15,7 +15,7 @@ CRIS brings publication records, researcher identities, journal metrics, researc
 **Author:** Abdulrahman Alkhatib  
 **Contribution:** Full-stack application development, database engineering, scholarly data integration, and analytics.
 
-[Capabilities](#capabilities) · [Architecture](#architecture) · [Engineering decisions](#engineering-decisions) · [Local development](#local-development) · [Author](#author)
+Scroll to -> [Capabilities](#capabilities) · [Architecture](#architecture) · [Author](#author)
 
 ## The problem
 

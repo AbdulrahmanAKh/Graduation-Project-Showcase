@@ -99,7 +99,7 @@ This diagram summarizes the main data and application layers. Individual source 
 - GitHub: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)  
 - LinkedIn: [https://www.linkedin.com/in/abdulrahman-alkhatib/](https://www.linkedin.com/in/abdulrahman-alkhatib/)
 - Email: [aboodkhatib90@gmail.com](mailto:aboodkhatib90@gmail.com)  
-- Portfolio: [https://abdulrahmanakh.github.io/Alkhatib-Portfolio/](https://abdulrahmanakh.github.io/Alkhatib-Portfolio/)
+- Portfolio: [https://abdulrahmanakh.github.io/](https://abdulrahmanakh.github.io/)
 
 ---
 

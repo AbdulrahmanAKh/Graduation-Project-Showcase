@@ -23,7 +23,7 @@ Research information is distributed across bibliographic providers and instituti
 
 This project extends an OpenAlex-based research catalog with Scopus ingestion, source reconciliation, journal intelligence, and role-specific workflows via API to automate the process of collecting data. It retains source distinctions so users can investigate coverage and citation differences rather than treating every provider as interchangeable.
 
-## Implemented Components (as required by the deanship of post-graduate & scientific research)
+### Implemented Components (as required by the deanship of post-graduate & scientific research)
 
 | Area                            | Implemented functionality                                                                                                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -96,10 +96,14 @@ This diagram summarizes the main data and application layers. Individual source 
 ## Author
 
 **Abdulrahman Alkhatib**  
-Computer Science · Software and AI Engineering  
-Islamic University of Madinah
+- GitHub: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)  
+- LinkedIn: [https://www.linkedin.com/in/abdulrahman-alkhatib/](https://www.linkedin.com/in/abdulrahman-alkhatib/)
+- Email: [aboodkhatib90@gmail.com](mailto:aboodkhatib90@gmail.com)  
+- Portfolio: [https://abdulrahmanakh.github.io/Alkhatib-Portfolio/](https://abdulrahmanakh.github.io/Alkhatib-Portfolio/)
 
-- [Portfolio](https://abdulrahmanakh.github.io/)
-- [LinkedIn: Abdulrahman Alkhatib](https://www.linkedin.com/in/abdulrahman-alkhatib/)
-- [GitHub: @AbdulrahmanAKh](https://github.com/abdulrahmanakh)
-- [Email](mailto:aboodkhatib90@gmail.com)
+---
+
+<p align="center">
+  <b>Developed & Engineered by Abdulrahman Alkhatib</b><br>
+  <i>Computer Science Graduate | Software & AI Engineer</i>
+</p>
